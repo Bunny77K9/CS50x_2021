@@ -4,7 +4,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)\
 Big Thanks to the active ***CS50 Discord Community***
 
 # Join CS50-Community
-<a href="https://discord.com/invite/cs50"><img align="left" src="https://discord.com/assets/192cb9459cbc0f9e73e2591b700f1857.svg" alt="Discord-Logo-Banner" width="128" height="64"></a>
+<a href="https://discord.com/invite/cs50"><img align="left" src="https://discord.com/assets/192cb9459cbc0f9e73e2591b700f1857.svg" alt="Discord-Logo-Banner" width="200"></a>
 
 <a href="https://www.facebook.com/groups/cs50/"><img align="left" src="https://www.freeiconspng.com/uploads/facebook-simple-text-22.png" alt="Facebook-Logo-Banner" width="160"></a>
 
