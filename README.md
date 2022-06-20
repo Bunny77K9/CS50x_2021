@@ -8,8 +8,6 @@ Big Thanks to the active ***CS50 Discord Community***
 
 <a href="https://www.facebook.com/groups/cs50/"><img align="left" src="https://www.freeiconspng.com/uploads/facebook-simple-text-22.png" alt="Facebook-Logo-Banner" width="160"></a>
 
-<a href="https://www.reddit.com/r/cs50/"><img align="left" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Reddit_logo_new.svg/2560px-Reddit_logo_new.svg.png" alt="Reddit-Logo-Banner" width="170"></a>
-
 <a href="https://cs50.stackexchange.com/"><img align="left" src="https://stackoverflow.design/assets/img/logos/so/logo-meta.svg" alt="Slack-Logo-Banner" width="300"></a>
 
 <a href="https://cs50.stackexchange.com/"><img src="https://icon-library.com/images/small-youtube-icon/small-youtube-icon-11.jpg" alt="Slack-Logo-Banner" width="125"></a>
