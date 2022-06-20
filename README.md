@@ -10,7 +10,7 @@ Big Thanks to the active ***CS50 Discord Community***
 
 <a href="https://cs50.stackexchange.com/"><img align="left" src="https://stackoverflow.design/assets/img/logos/so/logo-meta.svg" alt="Slack-Logo-Banner" width="300"></a>
 
-<a href="https://cs50.stackexchange.com/"><img src="https://icon-library.com/images/small-youtube-icon/small-youtube-icon-11.jpg" alt="Slack-Logo-Banner" width="125"></a>
+<a href="http://www.youtube.com/subscription_center?add_user=cs50tv"><img src="https://icon-library.com/images/small-youtube-icon/small-youtube-icon-11.jpg" alt="Slack-Logo-Banner" width="125"></a>
 
 # Table Of Contents
 - Week 0  ```[Theme: Basics of Programming]```
